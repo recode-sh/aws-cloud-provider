@@ -5,6 +5,7 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
+	"github.com/aws/aws-sdk-go-v2/service/ec2/types"
 )
 
 type KeyPair struct {
@@ -22,6 +23,7 @@ func CreateKeyPair(
 		context.TODO(),
 		&ec2.CreateKeyPairInput{
 			KeyName: &keyPairName,
+			KeyType: types.KeyTypeEd25519,
 		},
 	)
 
