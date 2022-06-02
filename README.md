@@ -11,7 +11,7 @@
 recode aws start --region eu-west-3 recode-sh/workspace --instance-type t2.medium
 ```
 
-![vscode](assets/vscode.png)
+https://user-images.githubusercontent.com/1233275/171618947-147053d2-0613-43ab-9b88-3cc0b8d99ace.mp4
 
 
 ## Table of contents
