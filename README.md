@@ -4,7 +4,7 @@
 
 <p align="center">
     <h1 align="center">AWS Cloud Provider</h1>
-    <p align="center">This repository contains the source code that implement the AWS cloud provider for the <a href="https://github.com/recode-sh/cli">Recode CLI</a>.</p>
+    <p align="center">This repository contains the source code that implements the AWS cloud provider for the <a href="https://github.com/recode-sh/cli">Recode CLI</a>.</p>
 </p>
 
 ```bash
