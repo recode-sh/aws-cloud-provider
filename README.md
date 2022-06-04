@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aws.jpeg" alt="recode" width="180" height="180" />
+  <img src="https://user-images.githubusercontent.com/1233275/172015952-8f40a3e0-b07b-4c57-8526-bc0870aad76d.jpeg" alt="recode" width="180" height="180" />
 </p>
 
 <p align="center">
@@ -12,6 +12,8 @@ recode aws start recode-sh/workspace --instance-type t2.medium
 ```
 
 https://user-images.githubusercontent.com/1233275/171855094-1768237a-ce22-41fc-812b-048870e69762.mp4
+
+<img width="1136" alt="vscode" src="https://user-images.githubusercontent.com/1233275/172016056-81e9345d-fd4e-43dd-adab-0648dcb457ef.png">
 
 ## Table of contents
 - [Usage](#usage)
@@ -109,7 +111,7 @@ t2.medium, m6g.large, a1.xlarge, c5.12xlarge...
 
 ## Infrastructure lifecycle
 
-![aws_infra](assets/infra.png)
+![infra](https://user-images.githubusercontent.com/1233275/172016026-3f395073-e198-4c99-8bfc-d570ae5f6c35.png)
 
 The schema above describe all the components that may be created in your AWS account. The next sections will describe their lifetime according to your use of the Recode CLI.
 
